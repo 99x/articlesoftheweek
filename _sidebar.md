@@ -1,5 +1,6 @@
 * 2020-February
    * [First week](2020-February/W1/README.md)
+   * [Second week](2020-February/W2/README.md)
    
 * 2020-January
    * [Second week](2020-January/W2/README.md)
