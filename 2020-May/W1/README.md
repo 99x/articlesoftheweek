@@ -1,5 +1,4 @@
-## Aricles of the week
-### 2020 May, W1
+**2020 May, W1**
 
 - [Web application solution architectures and introducing LAMG stack](https://medium.com/@shalithasuranga/web-application-solution-architectures-and-introducing-lamg-stack-6eb723b91d15)
 - [inq CLI - learn in public](https://rajikaimal.github.io/inq-cli/)
