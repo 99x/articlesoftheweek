@@ -1,3 +1,6 @@
+* 2020-June
+   * [First week](2020-June/W1/README.md)
+   
 * 2020-May
    * [First week](2020-May/W1/README.md)
    
